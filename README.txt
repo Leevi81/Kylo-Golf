@@ -34,3 +34,5 @@ Koil (Original)
 Alberto(updated)
 	- https://forum.cfx.re/t/koil-golf-updated-12-8/57957/33
 	- https://github.com/alberttheprince/FiveM-Golf
+KyloRenzz (updated)
+	- https://github.com/KyloRenzz/Kylo-Golf
