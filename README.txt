@@ -36,3 +36,4 @@ Alberto(updated)
 	- https://github.com/alberttheprince/FiveM-Golf
 KyloRenzz (updated)
 	- https://github.com/KyloRenzz/Kylo-Golf
+	- https://forum.cfx.re/t/koil-golf-updated-12-8/57957/41
